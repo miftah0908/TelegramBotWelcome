@@ -1,0 +1,12 @@
+{
+  "name": "telegram-welcome-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that welcomes new members and says goodbye to those who leave",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0",
+    "node-fetch": "^2.6.1"
+  },
+  "author": "Miftah GanzZ",
+  "license": "ISC"
+}
